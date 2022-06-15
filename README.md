@@ -16,3 +16,6 @@ This application uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS Code
 ![image](https://user-images.githubusercontent.com/81707384/173893696-c4eb7f2a-b7c1-47a4-838a-819e348a96f6.png)
 
 
+REPO used
+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample
+
